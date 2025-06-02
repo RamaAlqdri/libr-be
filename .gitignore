@@ -1,0 +1,11 @@
+# Go build & modules
+/bin/
+/pkg/
+/vendor/
+
+# Env & config
+.env
+
+# IDE files (optional)
+.idea/
+*.iml
